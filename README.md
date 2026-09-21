@@ -109,7 +109,7 @@ state and any error it reported.
 ## Support
 
 - Docs: https://demandbird.com/docs/mcp/
-- Email: support@demandbird.com
+- Email: hello@demandbird.com
 
 ## License
 
