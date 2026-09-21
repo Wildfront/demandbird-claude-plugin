@@ -1,0 +1,20 @@
+{
+  "name": "demandbird",
+  "description": "Write, schedule and publish social posts in your own voice, and read your analytics, without leaving Claude Code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "DemandBird",
+    "email": "support@demandbird.com",
+    "url": "https://demandbird.com"
+  },
+  "homepage": "https://demandbird.com",
+  "repository": "https://github.com/Wildfront/demandbird-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "social-media",
+    "linkedin",
+    "scheduling",
+    "analytics",
+    "content"
+  ]
+}
