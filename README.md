@@ -26,9 +26,15 @@ ask you to confirm every time.
 
 ### 1. Install the plugin
 
+Claude Code installs plugins from a *marketplace*, so add this repo as one
+first, then install from it:
+
 ```
-/plugin install demandbird
+/plugin marketplace add Wildfront/demandbird-claude-plugin
+/plugin install demandbird@demandbird-claude-plugin
 ```
+
+Run both lines inside a Claude Code session.
 
 ### 2. Mint an API token
 

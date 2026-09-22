@@ -1,0 +1,34 @@
+{
+  "name": "demandbird-claude-plugin",
+  "owner": {
+    "name": "DemandBird",
+    "email": "support@demandbird.com",
+    "url": "https://demandbird.com"
+  },
+  "metadata": {
+    "description": "The DemandBird plugin for Claude Code.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "demandbird",
+      "source": "./",
+      "description": "Write, schedule and publish social posts in your own voice, and read your analytics, without leaving Claude Code.",
+      "version": "1.0.0",
+      "author": {
+        "name": "DemandBird",
+        "email": "support@demandbird.com",
+        "url": "https://demandbird.com"
+      },
+      "homepage": "https://demandbird.com",
+      "license": "MIT",
+      "keywords": [
+        "social-media",
+        "linkedin",
+        "scheduling",
+        "analytics",
+        "content"
+      ]
+    }
+  ]
+}
