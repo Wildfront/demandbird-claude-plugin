@@ -1,7 +1,7 @@
 {
   "name": "demandbird",
   "description": "Write, schedule and publish social posts in your own voice, and read your analytics, without leaving Claude Code.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "DemandBird",
     "email": "hello@demandbird.com",

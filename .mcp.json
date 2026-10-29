@@ -2,10 +2,7 @@
   "mcpServers": {
     "demandbird": {
       "type": "http",
-      "url": "https://app.demandbird.com/mcp",
-      "headers": {
-        "Authorization": "Bearer ${DEMANDBIRD_API_TOKEN}"
-      }
+      "url": "https://app.demandbird.com/mcp"
     }
   }
 }
