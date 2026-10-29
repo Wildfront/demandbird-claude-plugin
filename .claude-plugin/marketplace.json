@@ -7,14 +7,14 @@
   },
   "metadata": {
     "description": "The DemandBird plugin for Claude Code.",
-    "version": "1.1.1"
+    "version": "1.1.2"
   },
   "plugins": [
     {
       "name": "demandbird",
       "source": "./",
-      "description": "Write, schedule and publish social posts in your own voice, and read your analytics, without leaving Claude Code.",
-      "version": "1.1.1",
+      "description": "Write, schedule and publish social posts in your own voice, and read your analytics, from Claude.",
+      "version": "1.1.2",
       "author": {
         "name": "DemandBird",
         "email": "support@demandbird.com",

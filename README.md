@@ -1,7 +1,7 @@
 # DemandBird for Claude Code
 
 Write, schedule and publish social posts in your own voice, and read your
-analytics, without leaving Claude Code.
+analytics, from Claude Code and the Claude apps.
 
 DemandBird runs a hosted MCP server, so this plugin adds no local process and
 runs nothing on your machine. It points Claude Code at
